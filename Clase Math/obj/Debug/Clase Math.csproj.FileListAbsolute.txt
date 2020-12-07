@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\Clase Math\Clase Math\bin\Debug\Clase Math.exe.config
+C:\Users\Usuario\source\repos\Clase Math\Clase Math\bin\Debug\Clase Math.exe
+C:\Users\Usuario\source\repos\Clase Math\Clase Math\bin\Debug\Clase Math.pdb
+C:\Users\Usuario\source\repos\Clase Math\Clase Math\obj\Debug\Clase Math.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Clase Math\Clase Math\obj\Debug\Clase_Math.Form1.resources
+C:\Users\Usuario\source\repos\Clase Math\Clase Math\obj\Debug\Clase_Math.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Clase Math\Clase Math\obj\Debug\Clase Math.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Clase Math\Clase Math\obj\Debug\Clase Math.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Clase Math\Clase Math\obj\Debug\Clase Math.exe
+C:\Users\Usuario\source\repos\Clase Math\Clase Math\obj\Debug\Clase Math.pdb
